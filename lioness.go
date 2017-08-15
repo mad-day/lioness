@@ -10,7 +10,12 @@ package lioness
 import (
 	"errors"
 
-	"git.schwanenlied.me/yawning/chacha20.git"
+	//"git.schwanenlied.me/yawning/chacha20.git"
+	/*
+	 * The Git repository   "git.schwanenlied.me/yawning/chacha20.git"   just died.
+	 *     R.I.P.
+	 */
+	"github.com/mad-day/chacha20"
 	"github.com/minio/blake2b-simd"
 )
 
